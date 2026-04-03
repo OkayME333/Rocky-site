@@ -1,1 +1,2 @@
-This is a very simple website about my favorite rock: Rocky :) rocky is made in memory of my dog who recently passed away and was with me for about 7 years Rocky was always pretty dumb, but I still love him if I ever got to see Rocky again we would go to your favorite park and play with that old stinky tennis ball you love
+This is a very simple website about my favorite rock: Rocky :) rocky is made in memory of my dog who recently passed away and was with me for about 7 years Rocky was always pretty dumb, but I still love him if I ever got to see Rocky again we would go to your favorite park and play with that old stinky tennis ball you love.
+I love and miss you Rocky.
