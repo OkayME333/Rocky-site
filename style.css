@@ -1,9 +1,43 @@
 .container {
     text-align: center;
+    font-family: Arial, sans-serif;
+    color: brown;
 }
 
 img {
     display: block;
     margin: 20px auto;
     width: 200px;
+}
+
+.traits {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    color: brown;
+}
+
+.star-rating {
+  text-align: center;
+  margin-top: 20px;
+}
+
+input[type="radio"] {
+  display: none;
+}
+
+label {
+  font-size: 30px;
+  color: #ccc;
+  cursor: pointer;
+  transition: color 0.2s;
+}
+
+/* Highlight the selected star */
+input[type="radio"]:checked + label {
+  color: gold;
+}
+
+/* Optional: Highlight star on hover */
+label:hover {
+  color: orange;
 }
